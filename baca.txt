@@ -2,10 +2,10 @@ Berikut adalah contoh daftar isi untuk topik "IoT Smart Home" yang dapat digunak
 DAFTAR ISI
 BAB I: PENDAHULUAN
 1.1 Latar Belakang
-Dalam beberapa tahun terakhir, konsep "Internet of Things" (IoT) telah berkembang pesat, dengan aplikasi yang semakin luas di berbagai bidang. Salah satu area yang paling terlihat dari penerapan IoT adalah dalam sistem smart home atau rumah pintar.ini kalimat di tambah. Perangkat-perangkat ini bisa berupa lampu, alat pengatur suhu, kamera pengawas, dan perangkat lainnya yang saling terhubung melalui jaringan internet.
+Dalam beberapa tahun dekade terakhir konsep "Internet of Things" (IoT) telah berkembang pesat, dengan aplikasi yang semakin luas di berbagai bidang. Salah satu area yang paling terlihat dari penerapan IoT adalah dalam sistem smart home atau rumah pintar.ini kalimat di tambah. Perangkat-perangkat ini bisa berupa lampu, alat pengatur suhu, kamera pengawas, dan perangkat lainnya yang saling terhubung melalui jaringan internet.
 IoT memungkinkan perangkat ini untuk saling berinteraksi dan dikendalikan dari jarak jauh, baik melalui smartphone, tablet, maupun perangkat lainnya. Dengan demikian, IoT dalam smart home tidak hanya meningkatkan kualitas hidup, tetapi juga membuka potensi efisiensi energi yang lebih baik serta meningkatkan tingkat keamanan penghuni rumah. Meskipun demikian, penerapan teknologi ini tidak tanpa tantangan, terutama dalam hal keamanan data dan privasi pengguna.
 1.2 Tujuan dan Manfaat
-Tujuan dari penelitian ini adalah untuk memahami konsep dasar dan perkembangan teknologi IoT dalam penerapan smart home. Penelitian ini juga bertujuan untuk menganalisis manfaat serta tantangan yang dihadapi dalam implementasi IoT pada smart home. Manfaat dari penelitian ini antara lain:
+Tujuan dari penelitian ini merupakan cara untuk memahami konsep dasar dan perkembangan teknologi IoT dalam penerapan smart home. Penelitian ini juga bertujuan untuk menganalisis manfaat serta tantangan yang dihadapi dalam implementasi IoT pada smart home. Manfaat dari penelitian ini antara lain:
 •	Menambah wawasan tentang penerapan teknologi IoT dalam kehidupan sehari-hari.
 •	Memberikan informasi terkait perangkat dan sistem yang digunakan dalam smart home.
 •	Mengidentifikasi keuntungan dan tantangan dalam penggunaan smart home.
@@ -24,6 +24,7 @@ Metodologi yang digunakan dalam penelitian ini adalah studi literatur dan studi 
 2.2. Komponen Utama dalam IoT
 2.3. Teknologi dan Protokol IoT
 2.4. Keamanan dalam IoT
+2.5. koneksi
 2.	PENGERTIAN DAN KONSEP SMART HOME
 3.1. Definisi Smart Home
 3.2. Perbedaan antara Smart Home dan Rumah Konvensional
