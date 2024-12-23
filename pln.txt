@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     // Deklarasi variabel
-    double pemakaian, tarif, total_penghasilan;
+    double pemakaian, tarif, total_penghasilan, pajak, total_bayar;
     
     // Input jumlah pemakaian listrik dalam kWh
     cout << "Masukkan jumlah pemakaian listrik (dalam kWh): ";
@@ -16,8 +16,20 @@ int main() {
     // Menghitung total penghasilan
     total_penghasilan = pemakaian * tarif;
     
+    // Menentukan pajak yang dikenakan
+    if (total_penghasilan > 1000) {
+        pajak = total_penghasilan * 0.02;  // Pajak 2%
+    } else {
+        pajak = total_penghasilan * 0.01;  // Pajak 1%
+    }
+    
+    // Menghitung total bayar setelah pajak
+    total_bayar = total_penghasilan + pajak;
+    
     // Menampilkan hasil
     cout << "Total penghasilan PLN untuk pemakaian " << pemakaian << " kWh adalah: Rp " << total_penghasilan << endl;
+    cout << "Pajak yang dikenakan: Rp " << pajak << endl;
+    cout << "Total yang harus dibayar setelah pajak: Rp " << total_bayar << endl;
     
     return 0;
 }
