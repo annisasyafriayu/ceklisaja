@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Deklarasi variabel
+    double pemakaian, tarif, total_penghasilan;
+    
+    // Input jumlah pemakaian listrik dalam kWh
+    cout << "Masukkan jumlah pemakaian listrik (dalam kWh): ";
+    cin >> pemakaian;
+    
+    // Input tarif per kWh
+    cout << "Masukkan tarif per kWh (dalam rupiah): ";
+    cin >> tarif;
+    
+    // Menghitung total penghasilan
+    total_penghasilan = pemakaian * tarif;
+    
+    // Menampilkan hasil
+    cout << "Total penghasilan PLN untuk pemakaian " << pemakaian << " kWh adalah: Rp " << total_penghasilan << endl;
+    
+    return 0;
+}
